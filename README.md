@@ -12,11 +12,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushtyagi01&label=Profile%20views&color=0e75b6&style=flat" alt="ayushtyagi01" /> </p>
 
 ### Connect with me
-[<img align="left" width="28px" src="https://img.icons8.com/color/96/000000/twitter-squared.png" />][twitter]
-[<img align="left"  width="22px" src="https://img.icons8.com/color/96/000000/linkedin.png" />][linkedin]
-[<img align="left"  width="22px" src="https://img.icons8.com/color/96/000000/instagram-new.png" />][instagram]
-[<img align="left"  width="22px" src="https://img.icons8.com/color/96/000000/gmail.png" />][email]
-[<img align="left"  width="22px" src="https://img.icons8.com/color/96/000000/facebook.png" />][facebook]
+[<img align="left" width="40px" src="https://img.icons8.com/color/96/000000/twitter-squared.png" />][twitter]
+[<img align="left"  width="40px" src="https://img.icons8.com/color/96/000000/linkedin.png" />][linkedin]
+[<img align="left"  width="40px" src="https://img.icons8.com/color/96/000000/instagram-new.png" />][instagram]
+[<img align="left"  width="40px" src="https://img.icons8.com/color/96/000000/gmail.png" />][email]
+[<img align="left"  width="40px" src="https://img.icons8.com/color/96/000000/facebook.png" />][facebook]
 
 <br />
 
