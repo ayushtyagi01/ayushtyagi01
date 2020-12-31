@@ -7,9 +7,8 @@
 - 🔭 I’m currently working on [Chat App](https://github.com/ayushtyagi01/ChatApp)
 - 🌱 I’m currently learning **Machine Learning**
 - 📫 How to reach me **tyagiayush867@gmail.com**
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to watch anime
 
 
 
