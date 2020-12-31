@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ayush Tyagi</h1>
-<h3 align="center">I am an Android Developer and ML enthusiast</h3>
+<h1>Hi 👋, I'm Ayush Tyagi</h1>
+<h3>I am an Android Developer and ML enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushtyagi01&label=Profile%20views&color=0e75b6&style=flat" alt="ayushtyagi01" /> </p>
 
