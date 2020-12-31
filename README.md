@@ -41,7 +41,7 @@
 <br />
 <br />
 
-
+### Github Stats⚡
  ![Ayush Tyagi's Github Stats](https://github-readme-stats.vercel.app/api?username=ayushtyagi01&count_private=true&theme=tokyonight&hide=contribs,prs)
  <br />
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ayushtyagi01.ayushtyagi01)
