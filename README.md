@@ -13,9 +13,10 @@
 
 ### Connect with me
 [<img align="left" width="22px" src="https://img.icons8.com/color/96/000000/twitter-squared.png" />][twitter]
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" />][codechef]
+[<img align="left"  width="22px" src="https://img.icons8.com/color/96/000000/linkedin.png" />][linkedin]
+[<img align="left"  width="22px" src="https://img.icons8.com/color/96/000000/instagram-new.png" />][instagram]
+[<img align="left"  width="22px" src="https://img.icons8.com/color/96/000000/gmail.png" />][email]
+[<img align="left"  width="22px" src="https://img.icons8.com/color/96/000000/facebook.png" />][facebook]
 
 <br />
 
@@ -49,8 +50,9 @@
  <br />
  
  [twitter]: https://twitter.com/ayushtyagi_01
-[codechef]: https://www.codechef.com/users/ayushtyagi_01
+[facebook]: https://www.facebook.com/ayush.tyagi.507027
 [instagram]: https://instagram.com/ayushtyagi_01
+[emial]: tyagiayush867@gmail.com
 [linkedin]: https://linkedin.com/in/ayushtyagi
 
 
