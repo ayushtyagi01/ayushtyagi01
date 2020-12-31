@@ -43,7 +43,7 @@
 <br />
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>###GitHub Stats</summary>
   <img align="left"  src="https://github-readme-stats.vercel.app/api?username=ayushtyagi01&show_icons=true&hide_border=true" />
  </details
  <br />
