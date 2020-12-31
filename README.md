@@ -41,10 +41,9 @@
 <br />
 <br />
 
-<details>
- <summary>:zap: GitHub Stats</summary>
+
  ![Ayush Tyagi's Github Stats](https://github-readme-stats.vercel.app/api?username=ayushtyagi01&count_private=true&theme=tokyonight&hide=contribs,prs)
-</details>
+
 
 
 
