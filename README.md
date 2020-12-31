@@ -12,12 +12,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushtyagi01&label=Profile%20views&color=0e75b6&style=flat" alt="ayushtyagi01" /> </p>
 
 ### Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/ayushtyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="ayushtyagi" height="30" width="40" /></a> 
-<a href="https://linkedin.com/in/ayushtyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ayushtyagi" height="30" width="40" /></a>
-<a href="https://instagram.com/ayushtyagi_01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ayushtyagi_01" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ayushtyagi_01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ayushtyagi_01" height="30" width="40" /></a>
-</p>
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left"  width="22px" src=""https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg"" />][codechef]
+
+<br />
 
 
 
@@ -45,6 +45,11 @@
 ### Github Stats
  ![Ayush Tyagi's Github Stats](https://github-readme-stats.vercel.app/api?username=ayushtyagi01&count_private=true&theme=tokyonight&hide=contribs,prs)
  <br />
+ 
+ [twitter]: https://twitter.com/ayushtyagi_01
+[codechef]: https://www.codechef.com/users/ayushtyagi_01
+[instagram]: https://instagram.com/ayushtyagi_01
+[linkedin]: https://linkedin.com/in/ayushtyagi
 
 
 
