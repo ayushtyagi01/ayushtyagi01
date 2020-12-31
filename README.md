@@ -14,6 +14,10 @@
 <a href="https://www.codechef.com/users/ayushtyagi_01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ayushtyagi_01" height="30" width="40" /></a>
 </p>
 
+### Top Technologies
+
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Android Badge](https://img.shields.io/badge/-Android-3C873A?style=for-the-badge&labelColor=black&logo=android&logoColor=3C873A)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-007acc?style=for-the-badge&labelColor=black&logo=node.js&logoColor=007acc)](#)  [![Python Badge](https://img.shields.io/badge/-Python-e535ab?style=for-the-badge&labelColor=black&logo=python&logoColor=e535ab)](#)
+
 ### Languages and Tools
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
