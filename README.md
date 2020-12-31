@@ -9,13 +9,6 @@
 - 🥅 2021 Goal: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to watch anime
 
-<div align="center" width="50">
-
-<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
-
-</div>
-
-<div align="center"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushtyagi01&label=Profile%20views&color=0e75b6&style=flat" alt="ayushtyagi01" /> </p>
 
