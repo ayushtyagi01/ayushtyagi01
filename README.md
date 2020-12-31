@@ -42,10 +42,7 @@
 <br />
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="ayushtyagi01's GitHub Stats" src="https://github-readme-stats.ayushtyagi01r.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
+ ![Ayush Tyagi's Github Stats](https://github-readme-stats.vercel.app/api?username=ayushtyagi01&count_private=true&theme=tokyonight&hide=contribs,prs)
 </details>
 
 
