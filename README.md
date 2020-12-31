@@ -12,7 +12,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushtyagi01&label=Profile%20views&color=0e75b6&style=flat" alt="ayushtyagi01" /> </p>
 
 ### Connect with me
-[<img align="left" width="22px" src="https://img.icons8.com/color/96/000000/twitter-squared.png" />][twitter]
+[<img align="left" width="28px" src="https://img.icons8.com/color/96/000000/twitter-squared.png" />][twitter]
 [<img align="left"  width="22px" src="https://img.icons8.com/color/96/000000/linkedin.png" />][linkedin]
 [<img align="left"  width="22px" src="https://img.icons8.com/color/96/000000/instagram-new.png" />][instagram]
 [<img align="left"  width="22px" src="https://img.icons8.com/color/96/000000/gmail.png" />][email]
@@ -52,7 +52,7 @@
  [twitter]: https://twitter.com/ayushtyagi_01
 [facebook]: https://www.facebook.com/ayush.tyagi.507027
 [instagram]: https://instagram.com/ayushtyagi_01
-[emial]: tyagiayush867@gmail.com
+[email]: tyagiayush867@gmail.com
 [linkedin]: https://linkedin.com/in/ayushtyagi
 
 
