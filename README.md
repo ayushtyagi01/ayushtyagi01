@@ -28,29 +28,20 @@
 
 <br />
 
-
-
-
-
-### Top Technologies
- [![Android Badge](https://img.shields.io/badge/-Android-3C873A?style=for-the-badge&labelColor=black&logo=android&logoColor=3C873A)](#) [![Python Badge](https://img.shields.io/badge/-Python-e535ab?style=for-the-badge&labelColor=black&logo=python&logoColor=e535ab)](#)
- [![ML Badge](https://img.shields.io/badge/-Machine Learning-e535ab?style=for-the-badge&labelColor=black&logo=Machine Learning&logoColor=e535ab)](#)
-
-
-
 ### Languages and Tools
 <img align="left" alt="Java" width="30px" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" />
 <img align="left" alt="python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Android" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
 <img align="left" alt="cplusplus" width="30px" src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="GitHub" width="30pxpx" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />
 <img align="left" alt="HTML" width="30pxpx" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS" width="30pxpx" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Firebase" width="30pxpx" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/firebase/firebase.png" />
 <img align="left" alt="GitHub" width="30pxpx" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
-<br />
+
 
 <details>
   <summary><b>GitHub Stats</b></summary>
