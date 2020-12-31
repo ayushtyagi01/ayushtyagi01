@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **tyagiayush867@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+### Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/ayushtyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ayushtyagi" height="30" width="40" /></a>
 <a href="https://instagram.com/ayushtyagi_01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ayushtyagi_01" height="30" width="40" /></a>
