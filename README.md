@@ -1,13 +1,14 @@
 ## Hi ,I'm Ayush Tyagi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="34px" alt="hi"> 
 
 ### I am an Android Developer and ML enthusiast
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ayushtyagi01.ayushtyagi01)
 
 
 
 - 🔭 I’m currently working on [Chat App](https://github.com/ayushtyagi01/ChatApp)
 - 🌱 I’m currently learning **Machine Learning**
 - 📫 How to reach me **tyagiayush867@gmail.com**
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goal: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to watch anime
 
 
@@ -41,10 +42,10 @@
 <br />
 <br />
 
-### Github Stats⚡
+### Github Stats
  ![Ayush Tyagi's Github Stats](https://github-readme-stats.vercel.app/api?username=ayushtyagi01&count_private=true&theme=tokyonight&hide=contribs,prs)
  <br />
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ayushtyagi01.ayushtyagi01)
+
 
 
 
