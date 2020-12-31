@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on [Chat App](https://github.com/ayushtyagi01/ChatApp)
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📫 How to reach me **tyagiayush867@gmail.com**
 - 🥅 2021 Goal: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to watch anime
@@ -12,7 +12,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushtyagi01&label=Profile%20views&color=0e75b6&style=flat" alt="ayushtyagi01" /> </p>
 
-
+<div align="center">
+  <img src=https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966 width="800">
+</div>
 
 ### Connect with me
 [<img align="left" width="40px" src="https://img.icons8.com/color/96/000000/twitter-squared.png" />][twitter]
@@ -23,9 +25,7 @@
 
 <br />
 
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/akasrai/akasrai/master/assets/stack-hills.svg" alt="stacks"/>
-</h3>
+
 
 
 
