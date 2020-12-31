@@ -11,9 +11,8 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushtyagi01&label=Profile%20views&color=0e75b6&style=flat" alt="ayushtyagi01" /> </p>
-< br />
 
-![Hi, Ayush Tyagi 👋 I am an Android Developer 🚀 I am currently learningMachine Learning ❤️](https://github.com/matyo91/matyo91/raw/main/assets/github.gif)
+![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 ### Connect with me
 [<img align="left" width="40px" src="https://img.icons8.com/color/96/000000/twitter-squared.png" />][twitter]
