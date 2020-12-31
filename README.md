@@ -12,6 +12,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushtyagi01&label=Profile%20views&color=0e75b6&style=flat" alt="ayushtyagi01" /> </p>
 
+![Hi, I'm Mathieu 👋 I'm a 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️](https://github.com/matyo91/matyo91/raw/main/assets/github.gif)
+
 ### Connect with me
 [<img align="left" width="40px" src="https://img.icons8.com/color/96/000000/twitter-squared.png" />][twitter]
 [<img align="left"  width="40px" src="https://img.icons8.com/color/96/000000/linkedin.png" />][linkedin]
