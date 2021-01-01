@@ -44,10 +44,10 @@
 <br />
 
 
-<details>
-  <summary><b>GitHub Stats</b></summary>
+
+  ### Github Stats
   <img align="left"  src="https://github-readme-stats.vercel.app/api?username=ayushtyagi01&show_icons=true&hide_border=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" />
- </details
+
  <br />
   
   <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
